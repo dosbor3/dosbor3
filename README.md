@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dosbor3, and I am currently a STEM educator.  
 - 👀 I’m interested in enhancing my skillset as a full stack developer
-- 🌱 I’m currently enhancing my skills developing with JS
+- 🌱 I’m currently enhancing my skills developing with HTML, CSS, advanced CSS, and JS
 - 💞️ I’m looking to collaborate on the following:
     SQL
     JS
